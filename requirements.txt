@@ -8,7 +8,7 @@
 
 Flask>=0.12.2
 python-telegram-bot>=2.5
-urllib3==1.21.1
+urllib3>=1.23
 
 
 
